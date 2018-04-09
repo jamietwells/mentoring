@@ -60,7 +60,17 @@ namespace Mentoring
     }
 
 
+    /*
+        Task 2: Expand the program to calculate the highest common factor between two numbers
 
+        For example:
+
+            Input: 12, 16
+            Output: 4
+
+            Input: 7, 15
+            Output: 1
+     */
 
 
     /*
